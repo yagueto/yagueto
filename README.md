@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Yagueto! 😄
 
 <!--
 **Yagueteiro/yagueteiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=yaguetoREADME&style=for-the-badge)
+
+[![Yagueto's GitHub stats](https://github-readme-stats.vercel.app/api?username=yagueteiro&count_private=true&show_icons=true)](https://github.com/yagueteiro/)
+
