@@ -17,5 +17,8 @@ Here are some ideas to get you started:
 
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=yaguetoREADME&style=for-the-badge)
 
-[![Yagueto's GitHub stats](https://github-readme-stats.vercel.app/api?username=yagueteiro&count_private=true&show_icons=true)](https://github.com/yagueteiro/)
-
+<div align="center"> 
+  <a href=https://github.com/yagueteiro>
+    <img src=https://github-readme-stats.vercel.app/api?username=yagueteiro&count_private=true&show_icons=true></img>
+  </a>
+</div>
