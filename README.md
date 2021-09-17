@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 <div align="center"> 
   <a href=https://github.com/yagueteiro>
-    <img src=https://github-readme-stats.vercel.app/api?username=yagueteiro&count_private=true&show_icons=true></img>
+    <img src=https://github-readme-stats.vercel.app/api?username=yagueto&count_private=true&show_icons=true></img>
   </a>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yagueteiro&" alt="yagueteiro" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yagueto&" alt="yagueto" /></p>
 </div>
 
 
