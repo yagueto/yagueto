@@ -24,4 +24,9 @@ Here are some ideas to get you started:
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yagueto&" alt="yagueto" /></p>
 </div>
 
+<div align="center">
+  <!--START_SECTION:activity-->
+  <!--END_SECTION:activity-->
+ </div>
+
 
