@@ -15,17 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=yaguetoREADME&style=for-the-badge)
+![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=yagueto'sREADME&style=for-the-badge)
 
 ### My personal stats 📈
 <div align="center"> 
   <a>
     <img src=https://github-readme-stats.vercel.app/api?username=yagueto&count_private=true&show_icons=true width=50%></img>
   </a>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yagueto&" alt="yagueto" width=49% />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yagueto" alt="yagueto" width=49% />
 </div>
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=yagueto" alt="yagueto" />
+    <img src="https://github-profile-trophy.vercel.app/?username=yagueto&no-bg=true" alt="yagueto" />
 </p>
 
 ### My recent activity
