@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 ### My recent activity ⚡
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#16](https://github.com/Yagueteiro/code-jam-2021/pull/16) in [Yagueteiro/code-jam-2021](https://github.com/Yagueteiro/code-jam-2021)
-2. ❗️ Closed issue [#7](https://github.com/Yagueteiro/code-jam-2021/issues/7) in [Yagueteiro/code-jam-2021](https://github.com/Yagueteiro/code-jam-2021)
-3. 🎉 Merged PR [#15](https://github.com/Yagueteiro/code-jam-2021/pull/15) in [Yagueteiro/code-jam-2021](https://github.com/Yagueteiro/code-jam-2021)
-4. ❗️ Closed issue [#5](https://github.com/Yagueteiro/code-jam-2021/issues/5) in [Yagueteiro/code-jam-2021](https://github.com/Yagueteiro/code-jam-2021)
-5. 💪 Opened PR [#15](https://github.com/Yagueteiro/code-jam-2021/pull/15) in [Yagueteiro/code-jam-2021](https://github.com/Yagueteiro/code-jam-2021)
+1. 🗣 Commented on [#12](https://github.com/IEEE-VIT/heimdall/issues/12) in [IEEE-VIT/heimdall](https://github.com/IEEE-VIT/heimdall)
+2. 💪 Opened PR [#16](https://github.com/Yagueteiro/code-jam-2021/pull/16) in [Yagueteiro/code-jam-2021](https://github.com/Yagueteiro/code-jam-2021)
+3. ❗️ Closed issue [#7](https://github.com/Yagueteiro/code-jam-2021/issues/7) in [Yagueteiro/code-jam-2021](https://github.com/Yagueteiro/code-jam-2021)
+4. 🎉 Merged PR [#15](https://github.com/Yagueteiro/code-jam-2021/pull/15) in [Yagueteiro/code-jam-2021](https://github.com/Yagueteiro/code-jam-2021)
+5. ❗️ Closed issue [#5](https://github.com/Yagueteiro/code-jam-2021/issues/5) in [Yagueteiro/code-jam-2021](https://github.com/Yagueteiro/code-jam-2021)
   <!--END_SECTION:activity-->
 
 
