@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 ### My recent activity ⚡
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#13](https://github.com/IEEE-VIT/heimdall/pull/13) in [IEEE-VIT/heimdall](https://github.com/IEEE-VIT/heimdall)
-2. 🗣 Commented on [#12](https://github.com/IEEE-VIT/heimdall/issues/12) in [IEEE-VIT/heimdall](https://github.com/IEEE-VIT/heimdall)
+1. 🗣 Commented on [#13](https://github.com/IEEE-VIT/heimdall/issues/13) in [IEEE-VIT/heimdall](https://github.com/IEEE-VIT/heimdall)
+2. 💪 Opened PR [#13](https://github.com/IEEE-VIT/heimdall/pull/13) in [IEEE-VIT/heimdall](https://github.com/IEEE-VIT/heimdall)
 3. 🗣 Commented on [#12](https://github.com/IEEE-VIT/heimdall/issues/12) in [IEEE-VIT/heimdall](https://github.com/IEEE-VIT/heimdall)
 4. 🗣 Commented on [#12](https://github.com/IEEE-VIT/heimdall/issues/12) in [IEEE-VIT/heimdall](https://github.com/IEEE-VIT/heimdall)
-5. 💪 Opened PR [#16](https://github.com/Yagueteiro/code-jam-2021/pull/16) in [Yagueteiro/code-jam-2021](https://github.com/Yagueteiro/code-jam-2021)
+5. 🗣 Commented on [#12](https://github.com/IEEE-VIT/heimdall/issues/12) in [IEEE-VIT/heimdall](https://github.com/IEEE-VIT/heimdall)
   <!--END_SECTION:activity-->
 
 
