@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 ### My recent activity ⚡
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/sreyan-ghosh/parsemail/issues/2) in [sreyan-ghosh/parsemail](https://github.com/sreyan-ghosh/parsemail)
-2. 🗣 Commented on [#5](https://github.com/Santhoshkumard11/Flask-Calculator-Beginner-Docker/issues/5) in [Santhoshkumard11/Flask-Calculator-Beginner-Docker](https://github.com/Santhoshkumard11/Flask-Calculator-Beginner-Docker)
-3. 🗣 Commented on [#13](https://github.com/IEEE-VIT/heimdall/issues/13) in [IEEE-VIT/heimdall](https://github.com/IEEE-VIT/heimdall)
-4. 💪 Opened PR [#13](https://github.com/IEEE-VIT/heimdall/pull/13) in [IEEE-VIT/heimdall](https://github.com/IEEE-VIT/heimdall)
-5. 🗣 Commented on [#12](https://github.com/IEEE-VIT/heimdall/issues/12) in [IEEE-VIT/heimdall](https://github.com/IEEE-VIT/heimdall)
+1. 💪 Opened PR [#7](https://github.com/Santhoshkumard11/Flask-Calculator-Beginner-Docker/pull/7) in [Santhoshkumard11/Flask-Calculator-Beginner-Docker](https://github.com/Santhoshkumard11/Flask-Calculator-Beginner-Docker)
+2. 🗣 Commented on [#2](https://github.com/sreyan-ghosh/parsemail/issues/2) in [sreyan-ghosh/parsemail](https://github.com/sreyan-ghosh/parsemail)
+3. 🗣 Commented on [#5](https://github.com/Santhoshkumard11/Flask-Calculator-Beginner-Docker/issues/5) in [Santhoshkumard11/Flask-Calculator-Beginner-Docker](https://github.com/Santhoshkumard11/Flask-Calculator-Beginner-Docker)
+4. 🗣 Commented on [#13](https://github.com/IEEE-VIT/heimdall/issues/13) in [IEEE-VIT/heimdall](https://github.com/IEEE-VIT/heimdall)
+5. 💪 Opened PR [#13](https://github.com/IEEE-VIT/heimdall/pull/13) in [IEEE-VIT/heimdall](https://github.com/IEEE-VIT/heimdall)
   <!--END_SECTION:activity-->
 
 
