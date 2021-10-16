@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 ### My recent activity ⚡
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/sreyan-ghosh/parsemail/pull/4) in [sreyan-ghosh/parsemail](https://github.com/sreyan-ghosh/parsemail)
-2. 🗣 Commented on [#20](https://github.com/anexia-it/geofeed-validator/issues/20) in [anexia-it/geofeed-validator](https://github.com/anexia-it/geofeed-validator)
-3. 🗣 Commented on [#5](https://github.com/iot-lab-kiit/Password-Generator/issues/5) in [iot-lab-kiit/Password-Generator](https://github.com/iot-lab-kiit/Password-Generator)
-4. 💪 Opened PR [#7](https://github.com/Santhoshkumard11/Flask-Calculator-Beginner-Docker/pull/7) in [Santhoshkumard11/Flask-Calculator-Beginner-Docker](https://github.com/Santhoshkumard11/Flask-Calculator-Beginner-Docker)
-5. 🗣 Commented on [#2](https://github.com/sreyan-ghosh/parsemail/issues/2) in [sreyan-ghosh/parsemail](https://github.com/sreyan-ghosh/parsemail)
+1. 🗣 Commented on [#251](https://github.com/PythonFreeCourse/lms/issues/251) in [PythonFreeCourse/lms](https://github.com/PythonFreeCourse/lms)
+2. 🗣 Commented on [#25](https://github.com/MasterMedo/typetest/issues/25) in [MasterMedo/typetest](https://github.com/MasterMedo/typetest)
+3. 💪 Opened PR [#4](https://github.com/sreyan-ghosh/parsemail/pull/4) in [sreyan-ghosh/parsemail](https://github.com/sreyan-ghosh/parsemail)
+4. 🗣 Commented on [#20](https://github.com/anexia-it/geofeed-validator/issues/20) in [anexia-it/geofeed-validator](https://github.com/anexia-it/geofeed-validator)
+5. 🗣 Commented on [#5](https://github.com/iot-lab-kiit/Password-Generator/issues/5) in [iot-lab-kiit/Password-Generator](https://github.com/iot-lab-kiit/Password-Generator)
   <!--END_SECTION:activity-->
 
 
