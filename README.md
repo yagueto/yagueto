@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 ### My recent activity ⚡
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#251](https://github.com/PythonFreeCourse/lms/issues/251) in [PythonFreeCourse/lms](https://github.com/PythonFreeCourse/lms)
-2. 🗣 Commented on [#251](https://github.com/PythonFreeCourse/lms/issues/251) in [PythonFreeCourse/lms](https://github.com/PythonFreeCourse/lms)
-3. 🗣 Commented on [#25](https://github.com/MasterMedo/typetest/issues/25) in [MasterMedo/typetest](https://github.com/MasterMedo/typetest)
-4. 💪 Opened PR [#4](https://github.com/sreyan-ghosh/parsemail/pull/4) in [sreyan-ghosh/parsemail](https://github.com/sreyan-ghosh/parsemail)
-5. 🗣 Commented on [#20](https://github.com/anexia-it/geofeed-validator/issues/20) in [anexia-it/geofeed-validator](https://github.com/anexia-it/geofeed-validator)
+1. 💪 Opened PR [#32](https://github.com/MasterMedo/typetest/pull/32) in [MasterMedo/typetest](https://github.com/MasterMedo/typetest)
+2. ❌ Closed PR [#1](https://github.com/yagueto/typetest/pull/1) in [yagueto/typetest](https://github.com/yagueto/typetest)
+3. 💪 Opened PR [#1](https://github.com/yagueto/typetest/pull/1) in [yagueto/typetest](https://github.com/yagueto/typetest)
+4. 🗣 Commented on [#251](https://github.com/PythonFreeCourse/lms/issues/251) in [PythonFreeCourse/lms](https://github.com/PythonFreeCourse/lms)
+5. 🗣 Commented on [#251](https://github.com/PythonFreeCourse/lms/issues/251) in [PythonFreeCourse/lms](https://github.com/PythonFreeCourse/lms)
   <!--END_SECTION:activity-->
 
 
