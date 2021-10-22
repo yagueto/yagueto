@@ -36,10 +36,10 @@ Here are some ideas to get you started:
 ### My recent activity ⚡
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#32](https://github.com/MasterMedo/typetest/pull/32) in [MasterMedo/typetest](https://github.com/MasterMedo/typetest)
-2. ❌ Closed PR [#1](https://github.com/yagueto/typetest/pull/1) in [yagueto/typetest](https://github.com/yagueto/typetest)
-3. 💪 Opened PR [#1](https://github.com/yagueto/typetest/pull/1) in [yagueto/typetest](https://github.com/yagueto/typetest)
-4. 🗣 Commented on [#251](https://github.com/PythonFreeCourse/lms/issues/251) in [PythonFreeCourse/lms](https://github.com/PythonFreeCourse/lms)
+1. 🗣 Commented on [#32](https://github.com/MasterMedo/typetest/issues/32) in [MasterMedo/typetest](https://github.com/MasterMedo/typetest)
+2. 💪 Opened PR [#32](https://github.com/MasterMedo/typetest/pull/32) in [MasterMedo/typetest](https://github.com/MasterMedo/typetest)
+3. ❌ Closed PR [#1](https://github.com/yagueto/typetest/pull/1) in [yagueto/typetest](https://github.com/yagueto/typetest)
+4. 💪 Opened PR [#1](https://github.com/yagueto/typetest/pull/1) in [yagueto/typetest](https://github.com/yagueto/typetest)
 5. 🗣 Commented on [#251](https://github.com/PythonFreeCourse/lms/issues/251) in [PythonFreeCourse/lms](https://github.com/PythonFreeCourse/lms)
   <!--END_SECTION:activity-->
 
