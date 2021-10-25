@@ -38,9 +38,9 @@ Here are some ideas to get you started:
   <!--START_SECTION:activity-->
 1. 🗣 Commented on [#32](https://github.com/MasterMedo/typetest/issues/32) in [MasterMedo/typetest](https://github.com/MasterMedo/typetest)
 2. 🗣 Commented on [#32](https://github.com/MasterMedo/typetest/issues/32) in [MasterMedo/typetest](https://github.com/MasterMedo/typetest)
-3. 💪 Opened PR [#32](https://github.com/MasterMedo/typetest/pull/32) in [MasterMedo/typetest](https://github.com/MasterMedo/typetest)
-4. ❌ Closed PR [#1](https://github.com/yagueto/typetest/pull/1) in [yagueto/typetest](https://github.com/yagueto/typetest)
-5. 💪 Opened PR [#1](https://github.com/yagueto/typetest/pull/1) in [yagueto/typetest](https://github.com/yagueto/typetest)
+3. 🗣 Commented on [#32](https://github.com/MasterMedo/typetest/issues/32) in [MasterMedo/typetest](https://github.com/MasterMedo/typetest)
+4. 💪 Opened PR [#32](https://github.com/MasterMedo/typetest/pull/32) in [MasterMedo/typetest](https://github.com/MasterMedo/typetest)
+5. ❌ Closed PR [#1](https://github.com/yagueto/typetest/pull/1) in [yagueto/typetest](https://github.com/yagueto/typetest)
   <!--END_SECTION:activity-->
 
 
