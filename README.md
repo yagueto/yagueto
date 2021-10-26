@@ -1,19 +1,5 @@
 ## Hi there 👋, I'm Yagueto! 😄
 
-<!--
-**Yagueteiro/yagueteiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=yagueto'sREADME&style=for-the-badge)
 
@@ -28,8 +14,11 @@ Here are some ideas to get you started:
   </a>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yagueto" alt="yagueto" width=49% />
 </div>
+
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=yagueto&no-bg=true" alt="yagueto" />
+  <a href=https://metrics.lecoq.io/>
+       <img src=https://metrics.lecoq.io/yagueto?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Europe%2FMadrid&config.display=large/>
+  </a>
 </p>
 
 
@@ -42,5 +31,12 @@ Here are some ideas to get you started:
 4. 💪 Opened PR [#32](https://github.com/MasterMedo/typetest/pull/32) in [MasterMedo/typetest](https://github.com/MasterMedo/typetest)
 5. ❌ Closed PR [#1](https://github.com/yagueto/typetest/pull/1) in [yagueto/typetest](https://github.com/yagueto/typetest)
   <!--END_SECTION:activity-->
+  
+
+### Events I participated in 📆
+
+- Hacktoberfest 2020
+- Python Discord's Code Jam 2021 ☀️
+- Hacktoberfest 2021
 
 
