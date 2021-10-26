@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Yagueto! 😄
 
 
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=yagueto'sREADME&style=for-the-badge)
+![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=yagueto&style=for-the-badge)
 
 ### My languages 🗣️
 
