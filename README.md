@@ -25,11 +25,11 @@
 ### My recent activity ⚡
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3031](https://github.com/AnySoftKeyboard/AnySoftKeyboard/issues/3031) in [AnySoftKeyboard/AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard)
-2. 🗣 Commented on [#32](https://github.com/MasterMedo/typetest/issues/32) in [MasterMedo/typetest](https://github.com/MasterMedo/typetest)
-3. 🗣 Commented on [#32](https://github.com/MasterMedo/typetest/issues/32) in [MasterMedo/typetest](https://github.com/MasterMedo/typetest)
+1. ❗️ Reopened issue [#2](https://github.com/codemonsters/racekombat/issues/2) in [codemonsters/racekombat](https://github.com/codemonsters/racekombat)
+2. ❗️ Closed issue [#2](https://github.com/codemonsters/racekombat/issues/2) in [codemonsters/racekombat](https://github.com/codemonsters/racekombat)
+3. 🗣 Commented on [#3031](https://github.com/AnySoftKeyboard/AnySoftKeyboard/issues/3031) in [AnySoftKeyboard/AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard)
 4. 🗣 Commented on [#32](https://github.com/MasterMedo/typetest/issues/32) in [MasterMedo/typetest](https://github.com/MasterMedo/typetest)
-5. 💪 Opened PR [#32](https://github.com/MasterMedo/typetest/pull/32) in [MasterMedo/typetest](https://github.com/MasterMedo/typetest)
+5. 🗣 Commented on [#32](https://github.com/MasterMedo/typetest/issues/32) in [MasterMedo/typetest](https://github.com/MasterMedo/typetest)
   <!--END_SECTION:activity-->
   
 
