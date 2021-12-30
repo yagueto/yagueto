@@ -25,11 +25,11 @@
 ### My recent activity ⚡
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23005](https://github.com/mozilla-mobile/fenix/issues/23005) in [mozilla-mobile/fenix](https://github.com/mozilla-mobile/fenix)
-2. ❗️ Opened issue [#23006](https://github.com/mozilla-mobile/fenix/issues/23006) in [mozilla-mobile/fenix](https://github.com/mozilla-mobile/fenix)
-3. 🗣 Commented on [#70](https://github.com/jamesgeorge007/github-activity-readme/issues/70) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-4. 🗣 Commented on [#240](https://github.com/renyuneyun/Easer/issues/240) in [renyuneyun/Easer](https://github.com/renyuneyun/Easer)
-5. 🎉 Merged PR [#16](https://github.com/codemonsters/racekombat/pull/16) in [codemonsters/racekombat](https://github.com/codemonsters/racekombat)
+1. ❗️ Closed issue [#23006](https://github.com/mozilla-mobile/fenix/issues/23006) in [mozilla-mobile/fenix](https://github.com/mozilla-mobile/fenix)
+2. 🗣 Commented on [#23006](https://github.com/mozilla-mobile/fenix/issues/23006) in [mozilla-mobile/fenix](https://github.com/mozilla-mobile/fenix)
+3. 🗣 Commented on [#23005](https://github.com/mozilla-mobile/fenix/issues/23005) in [mozilla-mobile/fenix](https://github.com/mozilla-mobile/fenix)
+4. ❗️ Opened issue [#23006](https://github.com/mozilla-mobile/fenix/issues/23006) in [mozilla-mobile/fenix](https://github.com/mozilla-mobile/fenix)
+5. 🗣 Commented on [#70](https://github.com/jamesgeorge007/github-activity-readme/issues/70) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
   <!--END_SECTION:activity-->
   
 
