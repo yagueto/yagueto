@@ -25,11 +25,11 @@
 ### My recent activity ⚡
 
   <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#23006](https://github.com/mozilla-mobile/fenix/issues/23006) in [mozilla-mobile/fenix](https://github.com/mozilla-mobile/fenix)
-2. 🗣 Commented on [#23006](https://github.com/mozilla-mobile/fenix/issues/23006) in [mozilla-mobile/fenix](https://github.com/mozilla-mobile/fenix)
-3. 🗣 Commented on [#23005](https://github.com/mozilla-mobile/fenix/issues/23005) in [mozilla-mobile/fenix](https://github.com/mozilla-mobile/fenix)
-4. ❗️ Opened issue [#23006](https://github.com/mozilla-mobile/fenix/issues/23006) in [mozilla-mobile/fenix](https://github.com/mozilla-mobile/fenix)
-5. 🗣 Commented on [#70](https://github.com/jamesgeorge007/github-activity-readme/issues/70) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+1. 🗣 Commented on [#73](https://github.com/antimof/UxPlay/issues/73) in [antimof/UxPlay](https://github.com/antimof/UxPlay)
+2. ❗️ Closed issue [#23006](https://github.com/mozilla-mobile/fenix/issues/23006) in [mozilla-mobile/fenix](https://github.com/mozilla-mobile/fenix)
+3. 🗣 Commented on [#23006](https://github.com/mozilla-mobile/fenix/issues/23006) in [mozilla-mobile/fenix](https://github.com/mozilla-mobile/fenix)
+4. 🗣 Commented on [#23005](https://github.com/mozilla-mobile/fenix/issues/23005) in [mozilla-mobile/fenix](https://github.com/mozilla-mobile/fenix)
+5. ❗️ Opened issue [#23006](https://github.com/mozilla-mobile/fenix/issues/23006) in [mozilla-mobile/fenix](https://github.com/mozilla-mobile/fenix)
   <!--END_SECTION:activity-->
   
 
