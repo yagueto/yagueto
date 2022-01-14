@@ -19,11 +19,11 @@
 ### My recent activity ⚡
 
   <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#7](https://github.com/codemonsters/racekombat/issues/7) in [codemonsters/racekombat](https://github.com/codemonsters/racekombat)
-2. 🗣 Commented on [#73](https://github.com/antimof/UxPlay/issues/73) in [antimof/UxPlay](https://github.com/antimof/UxPlay)
-3. ❗️ Closed issue [#23006](https://github.com/mozilla-mobile/fenix/issues/23006) in [mozilla-mobile/fenix](https://github.com/mozilla-mobile/fenix)
-4. 🗣 Commented on [#23006](https://github.com/mozilla-mobile/fenix/issues/23006) in [mozilla-mobile/fenix](https://github.com/mozilla-mobile/fenix)
-5. 🗣 Commented on [#23005](https://github.com/mozilla-mobile/fenix/issues/23005) in [mozilla-mobile/fenix](https://github.com/mozilla-mobile/fenix)
+1. ❗️ Opened issue [#18](https://github.com/codemonsters/racekombat/issues/18) in [codemonsters/racekombat](https://github.com/codemonsters/racekombat)
+2. ❗️ Closed issue [#7](https://github.com/codemonsters/racekombat/issues/7) in [codemonsters/racekombat](https://github.com/codemonsters/racekombat)
+3. 🗣 Commented on [#73](https://github.com/antimof/UxPlay/issues/73) in [antimof/UxPlay](https://github.com/antimof/UxPlay)
+4. ❗️ Closed issue [#23006](https://github.com/mozilla-mobile/fenix/issues/23006) in [mozilla-mobile/fenix](https://github.com/mozilla-mobile/fenix)
+5. 🗣 Commented on [#23006](https://github.com/mozilla-mobile/fenix/issues/23006) in [mozilla-mobile/fenix](https://github.com/mozilla-mobile/fenix)
   <!--END_SECTION:activity-->
   
 
