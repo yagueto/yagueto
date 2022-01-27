@@ -19,11 +19,11 @@
 ### My recent activity ⚡
 
   <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#18](https://github.com/codemonsters/racekombat/issues/18) in [codemonsters/racekombat](https://github.com/codemonsters/racekombat)
-2. ❗️ Opened issue [#20](https://github.com/codemonsters/racekombat/issues/20) in [codemonsters/racekombat](https://github.com/codemonsters/racekombat)
-3. ❗️ Opened issue [#19](https://github.com/codemonsters/racekombat/issues/19) in [codemonsters/racekombat](https://github.com/codemonsters/racekombat)
-4. ❗️ Opened issue [#6175](https://github.com/microsoft/vscode-remote-release/issues/6175) in [microsoft/vscode-remote-release](https://github.com/microsoft/vscode-remote-release)
-5. ❗️ Opened issue [#18](https://github.com/codemonsters/racekombat/issues/18) in [codemonsters/racekombat](https://github.com/codemonsters/racekombat)
+1. 🗣 Commented on [#6175](https://github.com/microsoft/vscode-remote-release/issues/6175) in [microsoft/vscode-remote-release](https://github.com/microsoft/vscode-remote-release)
+2. ❗️ Closed issue [#18](https://github.com/codemonsters/racekombat/issues/18) in [codemonsters/racekombat](https://github.com/codemonsters/racekombat)
+3. ❗️ Opened issue [#20](https://github.com/codemonsters/racekombat/issues/20) in [codemonsters/racekombat](https://github.com/codemonsters/racekombat)
+4. ❗️ Opened issue [#19](https://github.com/codemonsters/racekombat/issues/19) in [codemonsters/racekombat](https://github.com/codemonsters/racekombat)
+5. ❗️ Opened issue [#6175](https://github.com/microsoft/vscode-remote-release/issues/6175) in [microsoft/vscode-remote-release](https://github.com/microsoft/vscode-remote-release)
   <!--END_SECTION:activity-->
   
 
