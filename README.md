@@ -19,11 +19,11 @@
 ### My recent activity ⚡
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6175](https://github.com/microsoft/vscode-remote-release/issues/6175) in [microsoft/vscode-remote-release](https://github.com/microsoft/vscode-remote-release)
-2. 🗣 Commented on [#114](https://github.com/calibreapp/image-actions/issues/114) in [calibreapp/image-actions](https://github.com/calibreapp/image-actions)
-3. ❗️ Opened issue [#114](https://github.com/calibreapp/image-actions/issues/114) in [calibreapp/image-actions](https://github.com/calibreapp/image-actions)
-4. 🎉 Merged PR [#24](https://github.com/codemonsters/racekombat/pull/24) in [codemonsters/racekombat](https://github.com/codemonsters/racekombat)
-5. 💪 Opened PR [#24](https://github.com/codemonsters/racekombat/pull/24) in [codemonsters/racekombat](https://github.com/codemonsters/racekombat)
+1. 🗣 Commented on [#14](https://github.com/codemonsters/racekombat/issues/14) in [codemonsters/racekombat](https://github.com/codemonsters/racekombat)
+2. ❗️ Closed issue [#14](https://github.com/codemonsters/racekombat/issues/14) in [codemonsters/racekombat](https://github.com/codemonsters/racekombat)
+3. 🗣 Commented on [#6175](https://github.com/microsoft/vscode-remote-release/issues/6175) in [microsoft/vscode-remote-release](https://github.com/microsoft/vscode-remote-release)
+4. 🗣 Commented on [#114](https://github.com/calibreapp/image-actions/issues/114) in [calibreapp/image-actions](https://github.com/calibreapp/image-actions)
+5. ❗️ Opened issue [#114](https://github.com/calibreapp/image-actions/issues/114) in [calibreapp/image-actions](https://github.com/calibreapp/image-actions)
   <!--END_SECTION:activity-->
   
 
