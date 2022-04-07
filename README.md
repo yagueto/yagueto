@@ -37,4 +37,4 @@
 - Python Discord's Code Jam 2021 ☀️
 - Hacktoberfest 2021
 
-![a](https://api.countapi.xyz/hit/yaguetogithub/visits?img)
+![a](https://api.countapi.xyz/hit/yaguetogithub/profile?img)
