@@ -23,11 +23,11 @@
 ### My recent activity ⚡
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#36](https://github.com/codemonsters/racekombat/issues/36) in [codemonsters/racekombat](https://github.com/codemonsters/racekombat)
-2. 🎉 Merged PR [#38](https://github.com/codemonsters/racekombat/pull/38) in [codemonsters/racekombat](https://github.com/codemonsters/racekombat)
-3. 💪 Opened PR [#38](https://github.com/codemonsters/racekombat/pull/38) in [codemonsters/racekombat](https://github.com/codemonsters/racekombat)
-4. 🗣 Commented on [#33](https://github.com/codemonsters/racekombat/issues/33) in [codemonsters/racekombat](https://github.com/codemonsters/racekombat)
-5. ❗️ Closed issue [#6](https://github.com/codemonsters/racekombat/issues/6) in [codemonsters/racekombat](https://github.com/codemonsters/racekombat)
+1. 💪 Opened PR [#39](https://github.com/codemonsters/racekombat/pull/39) in [codemonsters/racekombat](https://github.com/codemonsters/racekombat)
+2. 🗣 Commented on [#36](https://github.com/codemonsters/racekombat/issues/36) in [codemonsters/racekombat](https://github.com/codemonsters/racekombat)
+3. 🎉 Merged PR [#38](https://github.com/codemonsters/racekombat/pull/38) in [codemonsters/racekombat](https://github.com/codemonsters/racekombat)
+4. 💪 Opened PR [#38](https://github.com/codemonsters/racekombat/pull/38) in [codemonsters/racekombat](https://github.com/codemonsters/racekombat)
+5. 🗣 Commented on [#33](https://github.com/codemonsters/racekombat/issues/33) in [codemonsters/racekombat](https://github.com/codemonsters/racekombat)
   <!--END_SECTION:activity-->
   
 
