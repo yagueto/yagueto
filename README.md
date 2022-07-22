@@ -23,11 +23,11 @@
 ### My recent activity ⚡
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#40](https://github.com/codemonsters/racekombat/issues/40) in [codemonsters/racekombat](https://github.com/codemonsters/racekombat)
-2. ❗️ Closed issue [#44](https://github.com/codemonsters/racekombat/issues/44) in [codemonsters/racekombat](https://github.com/codemonsters/racekombat)
-3. 🗣 Commented on [#44](https://github.com/codemonsters/racekombat/issues/44) in [codemonsters/racekombat](https://github.com/codemonsters/racekombat)
-4. ❗️ Opened issue [#40](https://github.com/codemonsters/racekombat/issues/40) in [codemonsters/racekombat](https://github.com/codemonsters/racekombat)
-5. ❗️ Closed issue [#29](https://github.com/codemonsters/racekombat/issues/29) in [codemonsters/racekombat](https://github.com/codemonsters/racekombat)
+1. ❗️ Opened issue [#3](https://github.com/yagueto/code-jam-2022/issues/3) in [yagueto/code-jam-2022](https://github.com/yagueto/code-jam-2022)
+2. ❗️ Opened issue [#2](https://github.com/yagueto/code-jam-2022/issues/2) in [yagueto/code-jam-2022](https://github.com/yagueto/code-jam-2022)
+3. ❗️ Opened issue [#1](https://github.com/yagueto/code-jam-2022/issues/1) in [yagueto/code-jam-2022](https://github.com/yagueto/code-jam-2022)
+4. 🗣 Commented on [#40](https://github.com/codemonsters/racekombat/issues/40) in [codemonsters/racekombat](https://github.com/codemonsters/racekombat)
+5. ❗️ Closed issue [#44](https://github.com/codemonsters/racekombat/issues/44) in [codemonsters/racekombat](https://github.com/codemonsters/racekombat)
   <!--END_SECTION:activity-->
   
 
