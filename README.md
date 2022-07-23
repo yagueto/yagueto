@@ -23,11 +23,11 @@
 ### My recent activity ⚡
 
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/yagueto/code-jam-2022/issues/3) in [yagueto/code-jam-2022](https://github.com/yagueto/code-jam-2022)
-2. ❗️ Opened issue [#2](https://github.com/yagueto/code-jam-2022/issues/2) in [yagueto/code-jam-2022](https://github.com/yagueto/code-jam-2022)
-3. ❗️ Opened issue [#1](https://github.com/yagueto/code-jam-2022/issues/1) in [yagueto/code-jam-2022](https://github.com/yagueto/code-jam-2022)
-4. 🗣 Commented on [#40](https://github.com/codemonsters/racekombat/issues/40) in [codemonsters/racekombat](https://github.com/codemonsters/racekombat)
-5. ❗️ Closed issue [#44](https://github.com/codemonsters/racekombat/issues/44) in [codemonsters/racekombat](https://github.com/codemonsters/racekombat)
+1. ❗️ Opened issue [#6](https://github.com/yagueto/code-jam-2022/issues/6) in [yagueto/code-jam-2022](https://github.com/yagueto/code-jam-2022)
+2. 🎉 Merged PR [#5](https://github.com/yagueto/code-jam-2022/pull/5) in [yagueto/code-jam-2022](https://github.com/yagueto/code-jam-2022)
+3. ❗️ Opened issue [#3](https://github.com/yagueto/code-jam-2022/issues/3) in [yagueto/code-jam-2022](https://github.com/yagueto/code-jam-2022)
+4. ❗️ Opened issue [#2](https://github.com/yagueto/code-jam-2022/issues/2) in [yagueto/code-jam-2022](https://github.com/yagueto/code-jam-2022)
+5. ❗️ Opened issue [#1](https://github.com/yagueto/code-jam-2022/issues/1) in [yagueto/code-jam-2022](https://github.com/yagueto/code-jam-2022)
   <!--END_SECTION:activity-->
   
 
