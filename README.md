@@ -23,11 +23,11 @@
 ### My recent activity ⚡
 
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#9](https://github.com/yagueto/code-jam-2022/issues/9) in [yagueto/code-jam-2022](https://github.com/yagueto/code-jam-2022)
-2. 🎉 Merged PR [#8](https://github.com/yagueto/code-jam-2022/pull/8) in [yagueto/code-jam-2022](https://github.com/yagueto/code-jam-2022)
-3. 💪 Opened PR [#8](https://github.com/yagueto/code-jam-2022/pull/8) in [yagueto/code-jam-2022](https://github.com/yagueto/code-jam-2022)
-4. ❗️ Opened issue [#7](https://github.com/yagueto/code-jam-2022/issues/7) in [yagueto/code-jam-2022](https://github.com/yagueto/code-jam-2022)
-5. ❗️ Opened issue [#6](https://github.com/yagueto/code-jam-2022/issues/6) in [yagueto/code-jam-2022](https://github.com/yagueto/code-jam-2022)
+1. ❗️ Closed issue [#6](https://github.com/yagueto/code-jam-2022/issues/6) in [yagueto/code-jam-2022](https://github.com/yagueto/code-jam-2022)
+2. 🗣 Commented on [#6](https://github.com/yagueto/code-jam-2022/issues/6) in [yagueto/code-jam-2022](https://github.com/yagueto/code-jam-2022)
+3. 🎉 Merged PR [#10](https://github.com/yagueto/code-jam-2022/pull/10) in [yagueto/code-jam-2022](https://github.com/yagueto/code-jam-2022)
+4. 💪 Opened PR [#10](https://github.com/yagueto/code-jam-2022/pull/10) in [yagueto/code-jam-2022](https://github.com/yagueto/code-jam-2022)
+5. ❗️ Opened issue [#9](https://github.com/yagueto/code-jam-2022/issues/9) in [yagueto/code-jam-2022](https://github.com/yagueto/code-jam-2022)
   <!--END_SECTION:activity-->
   
 
