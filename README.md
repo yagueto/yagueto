@@ -24,10 +24,10 @@
 
   <!--START_SECTION:activity-->
 1. 🗣 Commented on [#10](https://github.com/TechWiz-3/who-unfollowed-me/issues/10) in [TechWiz-3/who-unfollowed-me](https://github.com/TechWiz-3/who-unfollowed-me)
-2. 🗣 Commented on [#1982](https://github.com/intel/cve-bin-tool/issues/1982) in [intel/cve-bin-tool](https://github.com/intel/cve-bin-tool)
-3. 🗣 Commented on [#6](https://github.com/shounak-dev/My-Music/issues/6) in [shounak-dev/My-Music](https://github.com/shounak-dev/My-Music)
-4. 🗣 Commented on [#65080](https://github.com/godotengine/godot/issues/65080) in [godotengine/godot](https://github.com/godotengine/godot)
-5. ❗️ Opened issue [#65080](https://github.com/godotengine/godot/issues/65080) in [godotengine/godot](https://github.com/godotengine/godot)
+2. 🗣 Commented on [#10](https://github.com/TechWiz-3/who-unfollowed-me/issues/10) in [TechWiz-3/who-unfollowed-me](https://github.com/TechWiz-3/who-unfollowed-me)
+3. 🗣 Commented on [#1982](https://github.com/intel/cve-bin-tool/issues/1982) in [intel/cve-bin-tool](https://github.com/intel/cve-bin-tool)
+4. 🗣 Commented on [#6](https://github.com/shounak-dev/My-Music/issues/6) in [shounak-dev/My-Music](https://github.com/shounak-dev/My-Music)
+5. 🗣 Commented on [#65080](https://github.com/godotengine/godot/issues/65080) in [godotengine/godot](https://github.com/godotengine/godot)
   <!--END_SECTION:activity-->
   
 
