@@ -24,10 +24,10 @@
 
   <!--START_SECTION:activity-->
 1. 🗣 Commented on [#12](https://github.com/cBridges851/tkinter-image-viewer/issues/12) in [cBridges851/tkinter-image-viewer](https://github.com/cBridges851/tkinter-image-viewer)
-2. 💪 Opened PR [#12](https://github.com/cBridges851/tkinter-image-viewer/pull/12) in [cBridges851/tkinter-image-viewer](https://github.com/cBridges851/tkinter-image-viewer)
-3. 🗣 Commented on [#11](https://github.com/cBridges851/tkinter-image-viewer/issues/11) in [cBridges851/tkinter-image-viewer](https://github.com/cBridges851/tkinter-image-viewer)
-4. 🗣 Commented on [#10](https://github.com/cBridges851/tkinter-image-viewer/issues/10) in [cBridges851/tkinter-image-viewer](https://github.com/cBridges851/tkinter-image-viewer)
-5. ❗️ Opened issue [#11](https://github.com/cBridges851/tkinter-image-viewer/issues/11) in [cBridges851/tkinter-image-viewer](https://github.com/cBridges851/tkinter-image-viewer)
+2. 🗣 Commented on [#12](https://github.com/cBridges851/tkinter-image-viewer/issues/12) in [cBridges851/tkinter-image-viewer](https://github.com/cBridges851/tkinter-image-viewer)
+3. 💪 Opened PR [#12](https://github.com/cBridges851/tkinter-image-viewer/pull/12) in [cBridges851/tkinter-image-viewer](https://github.com/cBridges851/tkinter-image-viewer)
+4. 🗣 Commented on [#11](https://github.com/cBridges851/tkinter-image-viewer/issues/11) in [cBridges851/tkinter-image-viewer](https://github.com/cBridges851/tkinter-image-viewer)
+5. 🗣 Commented on [#10](https://github.com/cBridges851/tkinter-image-viewer/issues/10) in [cBridges851/tkinter-image-viewer](https://github.com/cBridges851/tkinter-image-viewer)
   <!--END_SECTION:activity-->
   
 
