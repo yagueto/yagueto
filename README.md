@@ -23,11 +23,11 @@
 ### My recent activity ⚡
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#36](https://github.com/shounak-dev/My-Music/pull/36) in [shounak-dev/My-Music](https://github.com/shounak-dev/My-Music)
-2. 🗣 Commented on [#12](https://github.com/cBridges851/tkinter-image-viewer/issues/12) in [cBridges851/tkinter-image-viewer](https://github.com/cBridges851/tkinter-image-viewer)
-3. 🗣 Commented on [#12](https://github.com/cBridges851/tkinter-image-viewer/issues/12) in [cBridges851/tkinter-image-viewer](https://github.com/cBridges851/tkinter-image-viewer)
-4. 🗣 Commented on [#12](https://github.com/cBridges851/tkinter-image-viewer/issues/12) in [cBridges851/tkinter-image-viewer](https://github.com/cBridges851/tkinter-image-viewer)
-5. 💪 Opened PR [#12](https://github.com/cBridges851/tkinter-image-viewer/pull/12) in [cBridges851/tkinter-image-viewer](https://github.com/cBridges851/tkinter-image-viewer)
+1. 🗣 Commented on [#3219](https://github.com/mindsdb/mindsdb/issues/3219) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+2. 🗣 Commented on [#3389](https://github.com/mindsdb/mindsdb/issues/3389) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+3. 🗣 Commented on [#3219](https://github.com/mindsdb/mindsdb/issues/3219) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+4. 💪 Opened PR [#36](https://github.com/shounak-dev/My-Music/pull/36) in [shounak-dev/My-Music](https://github.com/shounak-dev/My-Music)
+5. 🗣 Commented on [#12](https://github.com/cBridges851/tkinter-image-viewer/issues/12) in [cBridges851/tkinter-image-viewer](https://github.com/cBridges851/tkinter-image-viewer)
   <!--END_SECTION:activity-->
   
 
