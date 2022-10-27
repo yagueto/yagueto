@@ -23,9 +23,9 @@
 ### My recent activity ⚡
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3720](https://github.com/mindsdb/mindsdb/pull/3720) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
-2. 🗣 Commented on [#3389](https://github.com/mindsdb/mindsdb/issues/3389) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
-3. 🗣 Commented on [#3219](https://github.com/mindsdb/mindsdb/issues/3219) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+1. 🗣 Commented on [#3720](https://github.com/mindsdb/mindsdb/issues/3720) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+2. 🗣 Commented on [#3720](https://github.com/mindsdb/mindsdb/issues/3720) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+3. 💪 Opened PR [#3720](https://github.com/mindsdb/mindsdb/pull/3720) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
 4. 🗣 Commented on [#3389](https://github.com/mindsdb/mindsdb/issues/3389) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
 5. 🗣 Commented on [#3219](https://github.com/mindsdb/mindsdb/issues/3219) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
   <!--END_SECTION:activity-->
