@@ -24,10 +24,10 @@
 
   <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1](https://github.com/Happy-reindeer007/walking-pal-web/issues/1) in [Happy-reindeer007/walking-pal-web](https://github.com/Happy-reindeer007/walking-pal-web)
-2. 🗣 Commented on [#3720](https://github.com/mindsdb/mindsdb/issues/3720) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
-3. 🗣 Commented on [#3720](https://github.com/mindsdb/mindsdb/issues/3720) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
-4. 💪 Opened PR [#3720](https://github.com/mindsdb/mindsdb/pull/3720) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
-5. 🗣 Commented on [#3389](https://github.com/mindsdb/mindsdb/issues/3389) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+2. 🗣 Commented on [#1](https://github.com/Happy-reindeer007/walking-pal-web/issues/1) in [Happy-reindeer007/walking-pal-web](https://github.com/Happy-reindeer007/walking-pal-web)
+3. 🗣 Commented on [#1](https://github.com/Happy-reindeer007/walking-pal-web/issues/1) in [Happy-reindeer007/walking-pal-web](https://github.com/Happy-reindeer007/walking-pal-web)
+4. 🗣 Commented on [#3720](https://github.com/mindsdb/mindsdb/issues/3720) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+5. 🗣 Commented on [#3720](https://github.com/mindsdb/mindsdb/issues/3720) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
   <!--END_SECTION:activity-->
   
 
