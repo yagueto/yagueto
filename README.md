@@ -12,6 +12,8 @@
 <a href="https://www.godotengine.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" alt="Godot Engine" width="40" height="40"/> </a>
 
 ### My personal stats 📈
+[![@yagueto's Holopin board](https://holopin.me/yagueto)](https://holopin.io/@yagueto)
+
 <div align="center"> 
   <a>
     <img src=https://github-readme-stats.vercel.app/api?username=yagueto&count_private=true&show_icons=true width=50%></img>
@@ -36,5 +38,7 @@
 - Hacktoberfest 2020
 - Python Discord's Code Jam 2021 ☀️
 - Hacktoberfest 2021
+- Python Discord's Code Jam 2022 ☀️
+- Hacktoberfest 2022
 
 ![a](https://api.countapi.xyz/hit/yaguetogithub/profile?img)
