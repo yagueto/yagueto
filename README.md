@@ -25,11 +25,11 @@
 ### My recent activity ⚡
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/Happy-reindeer007/walking-pal-web/issues/1) in [Happy-reindeer007/walking-pal-web](https://github.com/Happy-reindeer007/walking-pal-web)
-2. 🗣 Commented on [#1](https://github.com/Happy-reindeer007/walking-pal-web/issues/1) in [Happy-reindeer007/walking-pal-web](https://github.com/Happy-reindeer007/walking-pal-web)
-3. 🗣 Commented on [#1](https://github.com/Happy-reindeer007/walking-pal-web/issues/1) in [Happy-reindeer007/walking-pal-web](https://github.com/Happy-reindeer007/walking-pal-web)
-4. 🗣 Commented on [#1](https://github.com/Happy-reindeer007/walking-pal-web/issues/1) in [Happy-reindeer007/walking-pal-web](https://github.com/Happy-reindeer007/walking-pal-web)
-5. 🗣 Commented on [#3720](https://github.com/mindsdb/mindsdb/issues/3720) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+1. ❗️ Opened issue [#7](https://github.com/codemonsters/laboratorio-22-23/issues/7) in [codemonsters/laboratorio-22-23](https://github.com/codemonsters/laboratorio-22-23)
+2. ❗️ Opened issue [#6](https://github.com/codemonsters/laboratorio-22-23/issues/6) in [codemonsters/laboratorio-22-23](https://github.com/codemonsters/laboratorio-22-23)
+3. ❗️ Opened issue [#5](https://github.com/codemonsters/laboratorio-22-23/issues/5) in [codemonsters/laboratorio-22-23](https://github.com/codemonsters/laboratorio-22-23)
+4. ❗️ Opened issue [#4](https://github.com/codemonsters/laboratorio-22-23/issues/4) in [codemonsters/laboratorio-22-23](https://github.com/codemonsters/laboratorio-22-23)
+5. ❗️ Opened issue [#3](https://github.com/codemonsters/laboratorio-22-23/issues/3) in [codemonsters/laboratorio-22-23](https://github.com/codemonsters/laboratorio-22-23)
   <!--END_SECTION:activity-->
   
 
