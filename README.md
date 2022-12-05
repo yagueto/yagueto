@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Yagueto! 😄
 
 
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=yagueto_fina&style=for-the-badge)
+[![Visitors](https://hits.sh/github.com/yagueto/yagueto.svg?style=for-the-badge&label=Visitors&color=007ec6)](https://hits.sh/github.com/yagueto/yagueto/)
 
 ### Technologies I use 👨‍💻
 
