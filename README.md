@@ -27,11 +27,11 @@
 ### My recent activity ⚡
 
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#7](https://github.com/codemonsters/laboratorio-22-23/issues/7) in [codemonsters/laboratorio-22-23](https://github.com/codemonsters/laboratorio-22-23)
-2. ❗️ Opened issue [#6](https://github.com/codemonsters/laboratorio-22-23/issues/6) in [codemonsters/laboratorio-22-23](https://github.com/codemonsters/laboratorio-22-23)
-3. ❗️ Opened issue [#5](https://github.com/codemonsters/laboratorio-22-23/issues/5) in [codemonsters/laboratorio-22-23](https://github.com/codemonsters/laboratorio-22-23)
-4. ❗️ Opened issue [#4](https://github.com/codemonsters/laboratorio-22-23/issues/4) in [codemonsters/laboratorio-22-23](https://github.com/codemonsters/laboratorio-22-23)
-5. ❗️ Opened issue [#3](https://github.com/codemonsters/laboratorio-22-23/issues/3) in [codemonsters/laboratorio-22-23](https://github.com/codemonsters/laboratorio-22-23)
+1. 🎉 Merged PR [#1](https://github.com/yagueto/loteriaNavidad/pull/1) in [yagueto/loteriaNavidad](https://github.com/yagueto/loteriaNavidad)
+2. ❗️ Opened issue [#7](https://github.com/codemonsters/laboratorio-22-23/issues/7) in [codemonsters/laboratorio-22-23](https://github.com/codemonsters/laboratorio-22-23)
+3. ❗️ Opened issue [#6](https://github.com/codemonsters/laboratorio-22-23/issues/6) in [codemonsters/laboratorio-22-23](https://github.com/codemonsters/laboratorio-22-23)
+4. ❗️ Opened issue [#5](https://github.com/codemonsters/laboratorio-22-23/issues/5) in [codemonsters/laboratorio-22-23](https://github.com/codemonsters/laboratorio-22-23)
+5. ❗️ Opened issue [#4](https://github.com/codemonsters/laboratorio-22-23/issues/4) in [codemonsters/laboratorio-22-23](https://github.com/codemonsters/laboratorio-22-23)
   <!--END_SECTION:activity-->
   
 
