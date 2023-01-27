@@ -27,11 +27,11 @@
 ### My recent activity ⚡
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#360](https://github.com/makinacorpus/django-leaflet/issues/360) in [makinacorpus/django-leaflet](https://github.com/makinacorpus/django-leaflet)
-2. ❗️ Opened issue [#360](https://github.com/makinacorpus/django-leaflet/issues/360) in [makinacorpus/django-leaflet](https://github.com/makinacorpus/django-leaflet)
-3. 🗣 Commented on [#6](https://github.com/codemonsters/laboratorio-22-23/issues/6) in [codemonsters/laboratorio-22-23](https://github.com/codemonsters/laboratorio-22-23)
-4. ❗️ Closed issue [#4](https://github.com/codemonsters/laboratorio-22-23/issues/4) in [codemonsters/laboratorio-22-23](https://github.com/codemonsters/laboratorio-22-23)
-5. 🗣 Commented on [#4](https://github.com/codemonsters/laboratorio-22-23/issues/4) in [codemonsters/laboratorio-22-23](https://github.com/codemonsters/laboratorio-22-23)
+1. ❗️ Closed issue [#5](https://github.com/codemonsters/laboratorio-22-23/issues/5) in [codemonsters/laboratorio-22-23](https://github.com/codemonsters/laboratorio-22-23)
+2. 🗣 Commented on [#5](https://github.com/codemonsters/laboratorio-22-23/issues/5) in [codemonsters/laboratorio-22-23](https://github.com/codemonsters/laboratorio-22-23)
+3. ❗️ Opened issue [#9](https://github.com/codemonsters/laboratorio-22-23/issues/9) in [codemonsters/laboratorio-22-23](https://github.com/codemonsters/laboratorio-22-23)
+4. 🎉 Merged PR [#8](https://github.com/codemonsters/laboratorio-22-23/pull/8) in [codemonsters/laboratorio-22-23](https://github.com/codemonsters/laboratorio-22-23)
+5. 💪 Opened PR [#8](https://github.com/codemonsters/laboratorio-22-23/pull/8) in [codemonsters/laboratorio-22-23](https://github.com/codemonsters/laboratorio-22-23)
   <!--END_SECTION:activity-->
   
 
