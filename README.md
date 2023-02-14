@@ -27,11 +27,11 @@
 ### My recent activity ⚡
 
   <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#5](https://github.com/codemonsters/laboratorio-22-23/issues/5) in [codemonsters/laboratorio-22-23](https://github.com/codemonsters/laboratorio-22-23)
-2. 🗣 Commented on [#5](https://github.com/codemonsters/laboratorio-22-23/issues/5) in [codemonsters/laboratorio-22-23](https://github.com/codemonsters/laboratorio-22-23)
-3. ❗️ Opened issue [#9](https://github.com/codemonsters/laboratorio-22-23/issues/9) in [codemonsters/laboratorio-22-23](https://github.com/codemonsters/laboratorio-22-23)
-4. 🎉 Merged PR [#8](https://github.com/codemonsters/laboratorio-22-23/pull/8) in [codemonsters/laboratorio-22-23](https://github.com/codemonsters/laboratorio-22-23)
-5. 💪 Opened PR [#8](https://github.com/codemonsters/laboratorio-22-23/pull/8) in [codemonsters/laboratorio-22-23](https://github.com/codemonsters/laboratorio-22-23)
+1. ❗️ Opened issue [#8](https://github.com/one-loop/redlookit/issues/8) in [one-loop/redlookit](https://github.com/one-loop/redlookit)
+2. ❗️ Closed issue [#5](https://github.com/codemonsters/laboratorio-22-23/issues/5) in [codemonsters/laboratorio-22-23](https://github.com/codemonsters/laboratorio-22-23)
+3. 🗣 Commented on [#5](https://github.com/codemonsters/laboratorio-22-23/issues/5) in [codemonsters/laboratorio-22-23](https://github.com/codemonsters/laboratorio-22-23)
+4. ❗️ Opened issue [#9](https://github.com/codemonsters/laboratorio-22-23/issues/9) in [codemonsters/laboratorio-22-23](https://github.com/codemonsters/laboratorio-22-23)
+5. 🎉 Merged PR [#8](https://github.com/codemonsters/laboratorio-22-23/pull/8) in [codemonsters/laboratorio-22-23](https://github.com/codemonsters/laboratorio-22-23)
   <!--END_SECTION:activity-->
   
 
