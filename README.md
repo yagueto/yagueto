@@ -27,11 +27,11 @@
 ### My recent activity ⚡
 
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#16](https://github.com/codemonsters/laboratorio-22-23/issues/16) in [codemonsters/laboratorio-22-23](https://github.com/codemonsters/laboratorio-22-23)
-2. ❗️ Opened issue [#15](https://github.com/codemonsters/laboratorio-22-23/issues/15) in [codemonsters/laboratorio-22-23](https://github.com/codemonsters/laboratorio-22-23)
-3. ❗️ Opened issue [#14](https://github.com/codemonsters/laboratorio-22-23/issues/14) in [codemonsters/laboratorio-22-23](https://github.com/codemonsters/laboratorio-22-23)
-4. ❗️ Opened issue [#13](https://github.com/codemonsters/laboratorio-22-23/issues/13) in [codemonsters/laboratorio-22-23](https://github.com/codemonsters/laboratorio-22-23)
-5. ❗️ Opened issue [#12](https://github.com/codemonsters/laboratorio-22-23/issues/12) in [codemonsters/laboratorio-22-23](https://github.com/codemonsters/laboratorio-22-23)
+1. ❗️ Opened issue [#52](https://github.com/codemonsters/racekombat/issues/52) in [codemonsters/racekombat](https://github.com/codemonsters/racekombat)
+2. ❗️ Opened issue [#51](https://github.com/codemonsters/racekombat/issues/51) in [codemonsters/racekombat](https://github.com/codemonsters/racekombat)
+3. ❗️ Opened issue [#50](https://github.com/codemonsters/racekombat/issues/50) in [codemonsters/racekombat](https://github.com/codemonsters/racekombat)
+4. ❗️ Opened issue [#49](https://github.com/codemonsters/racekombat/issues/49) in [codemonsters/racekombat](https://github.com/codemonsters/racekombat)
+5. ❗️ Opened issue [#48](https://github.com/codemonsters/racekombat/issues/48) in [codemonsters/racekombat](https://github.com/codemonsters/racekombat)
   <!--END_SECTION:activity-->
   
 
