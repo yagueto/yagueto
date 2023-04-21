@@ -27,11 +27,11 @@
 ### My recent activity ⚡
 
   <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#46](https://github.com/codemonsters/racekombat/issues/46) in [codemonsters/racekombat](https://github.com/codemonsters/racekombat)
-2. 🗣 Commented on [#46](https://github.com/codemonsters/racekombat/issues/46) in [codemonsters/racekombat](https://github.com/codemonsters/racekombat)
-3. ❗️ Closed issue [#50](https://github.com/codemonsters/racekombat/issues/50) in [codemonsters/racekombat](https://github.com/codemonsters/racekombat)
-4. ❗️ Opened issue [#53](https://github.com/codemonsters/racekombat/issues/53) in [codemonsters/racekombat](https://github.com/codemonsters/racekombat)
-5. ❗️ Opened issue [#52](https://github.com/codemonsters/racekombat/issues/52) in [codemonsters/racekombat](https://github.com/codemonsters/racekombat)
+1. 🗣 Commented on [#48](https://github.com/codemonsters/racekombat/issues/48) in [codemonsters/racekombat](https://github.com/codemonsters/racekombat)
+2. ❗️ Closed issue [#53](https://github.com/codemonsters/racekombat/issues/53) in [codemonsters/racekombat](https://github.com/codemonsters/racekombat)
+3. 🗣 Commented on [#53](https://github.com/codemonsters/racekombat/issues/53) in [codemonsters/racekombat](https://github.com/codemonsters/racekombat)
+4. ❗️ Closed issue [#52](https://github.com/codemonsters/racekombat/issues/52) in [codemonsters/racekombat](https://github.com/codemonsters/racekombat)
+5. ❗️ Closed issue [#46](https://github.com/codemonsters/racekombat/issues/46) in [codemonsters/racekombat](https://github.com/codemonsters/racekombat)
   <!--END_SECTION:activity-->
   
 
