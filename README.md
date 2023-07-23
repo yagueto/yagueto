@@ -27,11 +27,11 @@
 ### My recent activity ⚡
 
   <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#47](https://github.com/codemonsters/racekombat/issues/47) in [codemonsters/racekombat](https://github.com/codemonsters/racekombat)
-2. 🔒 Closed issue [#48](https://github.com/codemonsters/racekombat/issues/48) in [codemonsters/racekombat](https://github.com/codemonsters/racekombat)
-3. 🔒 Closed issue [#51](https://github.com/codemonsters/racekombat/issues/51) in [codemonsters/racekombat](https://github.com/codemonsters/racekombat)
-4. 🚀 Published release [Gamepad 0.3](https://github.com/codemonsters/racekombat/releases/tag/v0.3-alpha) in [codemonsters/racekombat](https://github.com/codemonsters/racekombat)
-5. 🔒 Closed issue [#43](https://github.com/codemonsters/racekombat/issues/43) in [codemonsters/racekombat](https://github.com/codemonsters/racekombat)
+1. ❗ Opened issue [#5590](https://github.com/organicmaps/organicmaps/issues/5590) in [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps)
+2. 🔒 Closed issue [#47](https://github.com/codemonsters/racekombat/issues/47) in [codemonsters/racekombat](https://github.com/codemonsters/racekombat)
+3. 🔒 Closed issue [#48](https://github.com/codemonsters/racekombat/issues/48) in [codemonsters/racekombat](https://github.com/codemonsters/racekombat)
+4. 🔒 Closed issue [#51](https://github.com/codemonsters/racekombat/issues/51) in [codemonsters/racekombat](https://github.com/codemonsters/racekombat)
+5. 🚀 Published release [Gamepad 0.3](https://github.com/codemonsters/racekombat/releases/tag/v0.3-alpha) in [codemonsters/racekombat](https://github.com/codemonsters/racekombat)
   <!--END_SECTION:activity-->
   
 
