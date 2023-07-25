@@ -27,11 +27,11 @@
 ### My recent activity ⚡
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#443](https://github.com/cgeo/WhereYouGo/issues/443#issuecomment-1648456883) in [cgeo/WhereYouGo](https://github.com/cgeo/WhereYouGo)
-2. ❗ Opened issue [#444](https://github.com/cgeo/WhereYouGo/issues/444) in [cgeo/WhereYouGo](https://github.com/cgeo/WhereYouGo)
-3. 🔒 Closed issue [#5590](https://github.com/organicmaps/organicmaps/issues/5590) in [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps)
-4. 🗣 Commented on [#5590](https://github.com/organicmaps/organicmaps/issues/5590#issuecomment-1646870558) in [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps)
-5. ❗ Opened issue [#5590](https://github.com/organicmaps/organicmaps/issues/5590) in [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps)
+1. 🗣 Commented on [#444](https://github.com/cgeo/WhereYouGo/issues/444#issuecomment-1649599978) in [cgeo/WhereYouGo](https://github.com/cgeo/WhereYouGo)
+2. 🗣 Commented on [#443](https://github.com/cgeo/WhereYouGo/issues/443#issuecomment-1648456883) in [cgeo/WhereYouGo](https://github.com/cgeo/WhereYouGo)
+3. ❗ Opened issue [#444](https://github.com/cgeo/WhereYouGo/issues/444) in [cgeo/WhereYouGo](https://github.com/cgeo/WhereYouGo)
+4. 🔒 Closed issue [#5590](https://github.com/organicmaps/organicmaps/issues/5590) in [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps)
+5. 🗣 Commented on [#5590](https://github.com/organicmaps/organicmaps/issues/5590#issuecomment-1646870558) in [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps)
   <!--END_SECTION:activity-->
   
 
