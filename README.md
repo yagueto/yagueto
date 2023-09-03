@@ -27,11 +27,11 @@
 ### My recent activity ⚡
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#30](https://github.com/SecUSo/privacy-friendly-finance-manager/issues/30#issuecomment-1699489948) in [SecUSo/privacy-friendly-finance-manager](https://github.com/SecUSo/privacy-friendly-finance-manager)
-2. 🗣 Commented on [#444](https://github.com/cgeo/WhereYouGo/issues/444#issuecomment-1649599978) in [cgeo/WhereYouGo](https://github.com/cgeo/WhereYouGo)
-3. 🗣 Commented on [#443](https://github.com/cgeo/WhereYouGo/issues/443#issuecomment-1648456883) in [cgeo/WhereYouGo](https://github.com/cgeo/WhereYouGo)
-4. ❗ Opened issue [#444](https://github.com/cgeo/WhereYouGo/issues/444) in [cgeo/WhereYouGo](https://github.com/cgeo/WhereYouGo)
-5. 🔒 Closed issue [#5590](https://github.com/organicmaps/organicmaps/issues/5590) in [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps)
+1. ❗ Opened issue [#10445](https://github.com/microsoft/WSL/issues/10445) in [microsoft/WSL](https://github.com/microsoft/WSL)
+2. 🗣 Commented on [#30](https://github.com/SecUSo/privacy-friendly-finance-manager/issues/30#issuecomment-1699489948) in [SecUSo/privacy-friendly-finance-manager](https://github.com/SecUSo/privacy-friendly-finance-manager)
+3. 🗣 Commented on [#444](https://github.com/cgeo/WhereYouGo/issues/444#issuecomment-1649599978) in [cgeo/WhereYouGo](https://github.com/cgeo/WhereYouGo)
+4. 🗣 Commented on [#443](https://github.com/cgeo/WhereYouGo/issues/443#issuecomment-1648456883) in [cgeo/WhereYouGo](https://github.com/cgeo/WhereYouGo)
+5. ❗ Opened issue [#444](https://github.com/cgeo/WhereYouGo/issues/444) in [cgeo/WhereYouGo](https://github.com/cgeo/WhereYouGo)
   <!--END_SECTION:activity-->
   
 
