@@ -42,4 +42,3 @@
 - Hacktoberfest 2021
 - Python Discord's Code Jam 2022 ☀️
 - Hacktoberfest 2022
-![a](https://api.countapi.xyz/hit/yaguetogithub/profile?img)
