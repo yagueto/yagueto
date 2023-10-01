@@ -27,11 +27,11 @@
 ### My recent activity ⚡
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8401](https://github.com/bytebase/bytebase/issues/8401#issuecomment-1736943155) in [bytebase/bytebase](https://github.com/bytebase/bytebase)
-2. 🗣 Commented on [#10445](https://github.com/microsoft/WSL/issues/10445#issuecomment-1708588735) in [microsoft/WSL](https://github.com/microsoft/WSL)
-3. ❗ Opened issue [#10445](https://github.com/microsoft/WSL/issues/10445) in [microsoft/WSL](https://github.com/microsoft/WSL)
-4. 🗣 Commented on [#30](https://github.com/SecUSo/privacy-friendly-finance-manager/issues/30#issuecomment-1699489948) in [SecUSo/privacy-friendly-finance-manager](https://github.com/SecUSo/privacy-friendly-finance-manager)
-5. 🗣 Commented on [#444](https://github.com/cgeo/WhereYouGo/issues/444#issuecomment-1649599978) in [cgeo/WhereYouGo](https://github.com/cgeo/WhereYouGo)
+1. 🗣 Commented on [#8401](https://github.com/bytebase/bytebase/issues/8401#issuecomment-1742118194) in [bytebase/bytebase](https://github.com/bytebase/bytebase)
+2. 🗣 Commented on [#8401](https://github.com/bytebase/bytebase/issues/8401#issuecomment-1736943155) in [bytebase/bytebase](https://github.com/bytebase/bytebase)
+3. 🗣 Commented on [#10445](https://github.com/microsoft/WSL/issues/10445#issuecomment-1708588735) in [microsoft/WSL](https://github.com/microsoft/WSL)
+4. ❗ Opened issue [#10445](https://github.com/microsoft/WSL/issues/10445) in [microsoft/WSL](https://github.com/microsoft/WSL)
+5. 🗣 Commented on [#30](https://github.com/SecUSo/privacy-friendly-finance-manager/issues/30#issuecomment-1699489948) in [SecUSo/privacy-friendly-finance-manager](https://github.com/SecUSo/privacy-friendly-finance-manager)
   <!--END_SECTION:activity-->
   
 
