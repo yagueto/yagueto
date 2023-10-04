@@ -27,11 +27,11 @@
 ### My recent activity ⚡
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#62](https://github.com/bytebase/clabot-config/pull/62) in [bytebase/clabot-config](https://github.com/bytebase/clabot-config)
-2. 💪 Opened PR [#8553](https://github.com/bytebase/bytebase/pull/8553) in [bytebase/bytebase](https://github.com/bytebase/bytebase)
-3. 🗣 Commented on [#8401](https://github.com/bytebase/bytebase/issues/8401#issuecomment-1742118194) in [bytebase/bytebase](https://github.com/bytebase/bytebase)
-4. 🗣 Commented on [#8401](https://github.com/bytebase/bytebase/issues/8401#issuecomment-1736943155) in [bytebase/bytebase](https://github.com/bytebase/bytebase)
-5. 🗣 Commented on [#10445](https://github.com/microsoft/WSL/issues/10445#issuecomment-1708588735) in [microsoft/WSL](https://github.com/microsoft/WSL)
+1. 🗣 Commented on [#563](https://github.com/keyval-dev/odigos/issues/563#issuecomment-1746382366) in [keyval-dev/odigos](https://github.com/keyval-dev/odigos)
+2. 💪 Opened PR [#62](https://github.com/bytebase/clabot-config/pull/62) in [bytebase/clabot-config](https://github.com/bytebase/clabot-config)
+3. 💪 Opened PR [#8553](https://github.com/bytebase/bytebase/pull/8553) in [bytebase/bytebase](https://github.com/bytebase/bytebase)
+4. 🗣 Commented on [#8401](https://github.com/bytebase/bytebase/issues/8401#issuecomment-1742118194) in [bytebase/bytebase](https://github.com/bytebase/bytebase)
+5. 🗣 Commented on [#8401](https://github.com/bytebase/bytebase/issues/8401#issuecomment-1736943155) in [bytebase/bytebase](https://github.com/bytebase/bytebase)
   <!--END_SECTION:activity-->
   
 
