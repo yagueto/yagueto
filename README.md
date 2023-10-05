@@ -27,11 +27,11 @@
 ### My recent activity ⚡
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#563](https://github.com/keyval-dev/odigos/issues/563#issuecomment-1746382366) in [keyval-dev/odigos](https://github.com/keyval-dev/odigos)
-2. 💪 Opened PR [#62](https://github.com/bytebase/clabot-config/pull/62) in [bytebase/clabot-config](https://github.com/bytebase/clabot-config)
-3. 💪 Opened PR [#8553](https://github.com/bytebase/bytebase/pull/8553) in [bytebase/bytebase](https://github.com/bytebase/bytebase)
-4. 🗣 Commented on [#8401](https://github.com/bytebase/bytebase/issues/8401#issuecomment-1742118194) in [bytebase/bytebase](https://github.com/bytebase/bytebase)
-5. 🗣 Commented on [#8401](https://github.com/bytebase/bytebase/issues/8401#issuecomment-1736943155) in [bytebase/bytebase](https://github.com/bytebase/bytebase)
+1. 💪 Opened PR [#598](https://github.com/keyval-dev/odigos/pull/598) in [keyval-dev/odigos](https://github.com/keyval-dev/odigos)
+2. 🗣 Commented on [#563](https://github.com/keyval-dev/odigos/issues/563#issuecomment-1746382366) in [keyval-dev/odigos](https://github.com/keyval-dev/odigos)
+3. 💪 Opened PR [#62](https://github.com/bytebase/clabot-config/pull/62) in [bytebase/clabot-config](https://github.com/bytebase/clabot-config)
+4. 💪 Opened PR [#8553](https://github.com/bytebase/bytebase/pull/8553) in [bytebase/bytebase](https://github.com/bytebase/bytebase)
+5. 🗣 Commented on [#8401](https://github.com/bytebase/bytebase/issues/8401#issuecomment-1742118194) in [bytebase/bytebase](https://github.com/bytebase/bytebase)
   <!--END_SECTION:activity-->
   
 
