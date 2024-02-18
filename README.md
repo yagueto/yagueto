@@ -42,3 +42,4 @@
 - Hacktoberfest 2021
 - Python Discord's Code Jam 2022 ☀️
 - Hacktoberfest 2022
+- [HackUDC 2024](https://hackudc.gpul.org/)
