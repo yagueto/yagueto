@@ -27,8 +27,8 @@
 ### My recent activity ⚡
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3341](https://github.com/flipperdevices/flipperzero-firmware/issues/3341#issuecomment-2071620089) in [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware)
-2. 🗣 Commented on [#598](https://github.com/keyval-dev/odigos/pull/598#issuecomment-1757184880) in [keyval-dev/odigos](https://github.com/keyval-dev/odigos)
+1. 🎉 Merged PR [#3](https://github.com/Sprinter05/nullCO2/pull/3) in [Sprinter05/nullCO2](https://github.com/Sprinter05/nullCO2)
+2. 🗣 Commented on [#3341](https://github.com/flipperdevices/flipperzero-firmware/issues/3341#issuecomment-2071620089) in [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware)
 3. 💪 Opened PR [#598](https://github.com/keyval-dev/odigos/pull/598) in [keyval-dev/odigos](https://github.com/keyval-dev/odigos)
 4. 🗣 Commented on [#563](https://github.com/keyval-dev/odigos/issues/563#issuecomment-1746382366) in [keyval-dev/odigos](https://github.com/keyval-dev/odigos)
 5. 💪 Opened PR [#62](https://github.com/bytebase/clabot-config/pull/62) in [bytebase/clabot-config](https://github.com/bytebase/clabot-config)
