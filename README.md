@@ -27,8 +27,8 @@
 ### My recent activity ⚡
 
   <!--START_SECTION:activity-->
-1. 🚀 Published release [Full release v1.0](https://github.com/codemonsters/racekombat/releases/tag/v1.0) in [codemonsters/racekombat](https://github.com/codemonsters/racekombat)
-2. 🗣 Commented on [#202](https://github.com/james-tindal/obsidian-mindmap-nextgen/issues/202#issuecomment-2143489454) in [james-tindal/obsidian-mindmap-nextgen](https://github.com/james-tindal/obsidian-mindmap-nextgen)
+1. 🎉 Merged PR [#2](https://github.com/yagueto/proyecto-prog-3/pull/2) in [yagueto/proyecto-prog-3](https://github.com/yagueto/proyecto-prog-3)
+2. 💪 Opened PR [#2](https://github.com/yagueto/proyecto-prog-3/pull/2) in [yagueto/proyecto-prog-3](https://github.com/yagueto/proyecto-prog-3)
 3. ❗ Opened issue [#202](https://github.com/james-tindal/obsidian-mindmap-nextgen/issues/202) in [james-tindal/obsidian-mindmap-nextgen](https://github.com/james-tindal/obsidian-mindmap-nextgen)
 4. 🎉 Merged PR [#3](https://github.com/Sprinter05/nullCO2/pull/3) in [Sprinter05/nullCO2](https://github.com/Sprinter05/nullCO2)
 5. 🗣 Commented on [#3341](https://github.com/flipperdevices/flipperzero-firmware/issues/3341#issuecomment-2071620089) in [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware)
