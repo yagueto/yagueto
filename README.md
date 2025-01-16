@@ -27,11 +27,11 @@
 ### My recent activity ⚡
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#36383](https://github.com/microsoft/PowerToys/issues/36383#issuecomment-2548182001) in [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
-2. 🔒 Closed issue [#36383](https://github.com/microsoft/PowerToys/issues/36383) in [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
-3. ❗ Opened issue [#36383](https://github.com/microsoft/PowerToys/issues/36383) in [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
-4. 🎉 Merged PR [#2](https://github.com/yagueto/proyecto-prog-3/pull/2) in [yagueto/proyecto-prog-3](https://github.com/yagueto/proyecto-prog-3)
-5. 💪 Opened PR [#2](https://github.com/yagueto/proyecto-prog-3/pull/2) in [yagueto/proyecto-prog-3](https://github.com/yagueto/proyecto-prog-3)
+1. 🚀 Published release [1.0](https://github.com/yagueto/proyecto-prog-3/releases/tag/1.0) in [yagueto/proyecto-prog-3](https://github.com/yagueto/proyecto-prog-3)
+2. 🗣 Commented on [#36383](https://github.com/microsoft/PowerToys/issues/36383#issuecomment-2548182001) in [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
+3. 🔒 Closed issue [#36383](https://github.com/microsoft/PowerToys/issues/36383) in [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
+4. ❗ Opened issue [#36383](https://github.com/microsoft/PowerToys/issues/36383) in [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
+5. 🎉 Merged PR [#2](https://github.com/yagueto/proyecto-prog-3/pull/2) in [yagueto/proyecto-prog-3](https://github.com/yagueto/proyecto-prog-3)
   <!--END_SECTION:activity-->
   
 
