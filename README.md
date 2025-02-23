@@ -27,8 +27,8 @@
 ### My recent activity ⚡
 
   <!--START_SECTION:activity-->
-1. 🚀 Published release [1.0](https://github.com/yagueto/proyecto-prog-3/releases/tag/1.0) in [yagueto/proyecto-prog-3](https://github.com/yagueto/proyecto-prog-3)
-2. 🗣 Commented on [#36383](https://github.com/microsoft/PowerToys/issues/36383#issuecomment-2548182001) in [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
+1. 🎉 Merged PR [#1](https://github.com/Sprinter05/competenciapp/pull/1) in [Sprinter05/competenciapp](https://github.com/Sprinter05/competenciapp)
+2. 💪 Opened PR [#1](https://github.com/Sprinter05/competenciapp/pull/1) in [Sprinter05/competenciapp](https://github.com/Sprinter05/competenciapp)
 3. 🔒 Closed issue [#36383](https://github.com/microsoft/PowerToys/issues/36383) in [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
 4. ❗ Opened issue [#36383](https://github.com/microsoft/PowerToys/issues/36383) in [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
 5. 🎉 Merged PR [#2](https://github.com/yagueto/proyecto-prog-3/pull/2) in [yagueto/proyecto-prog-3](https://github.com/yagueto/proyecto-prog-3)
