@@ -27,7 +27,7 @@
 ### My recent activity ⚡
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/deustodmt/esp32-can-monitor/pull/1) in [deustodmt/esp32-can-monitor](https://github.com/deustodmt/esp32-can-monitor)
+1. 🚀 Published release [1.0 Administrador local](https://github.com/yagueto/techdrop/releases/tag/1.0) in [yagueto/techdrop](https://github.com/yagueto/techdrop)
 2. 💪 Opened PR [#1](https://github.com/deustodmt/esp32-can-monitor/pull/1) in [deustodmt/esp32-can-monitor](https://github.com/deustodmt/esp32-can-monitor)
 3. 🎉 Merged PR [#1](https://github.com/Sprinter05/competenciapp/pull/1) in [Sprinter05/competenciapp](https://github.com/Sprinter05/competenciapp)
 4. 💪 Opened PR [#1](https://github.com/Sprinter05/competenciapp/pull/1) in [Sprinter05/competenciapp](https://github.com/Sprinter05/competenciapp)
