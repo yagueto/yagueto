@@ -27,10 +27,10 @@
 ### My recent activity ⚡
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#17980](https://github.com/immich-app/immich/issues/17980) in [immich-app/immich](https://github.com/immich-app/immich)
-2. 🗣 Commented on [#14](https://github.com/raleighlittles/iTunesDB-Parser/issues/14#issuecomment-2816701123) in [raleighlittles/iTunesDB-Parser](https://github.com/raleighlittles/iTunesDB-Parser)
-3. 🚀 Published release [1.0 Administrador local](https://github.com/yagueto/techdrop/releases/tag/1.0) in [yagueto/techdrop](https://github.com/yagueto/techdrop)
-4. 💪 Opened PR [#1](https://github.com/Sprinter05/competenciapp/pull/1) in [Sprinter05/competenciapp](https://github.com/Sprinter05/competenciapp)
+1. ❗ Opened issue [#9840](https://github.com/paperless-ngx/paperless-ngx/issues/9840) in [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)
+2. ❗ Opened issue [#17980](https://github.com/immich-app/immich/issues/17980) in [immich-app/immich](https://github.com/immich-app/immich)
+3. 🗣 Commented on [#14](https://github.com/raleighlittles/iTunesDB-Parser/issues/14#issuecomment-2816701123) in [raleighlittles/iTunesDB-Parser](https://github.com/raleighlittles/iTunesDB-Parser)
+4. 🚀 Published release [1.0 Administrador local](https://github.com/yagueto/techdrop/releases/tag/1.0) in [yagueto/techdrop](https://github.com/yagueto/techdrop)
 5. 🎉 Merged PR [#2](https://github.com/yagueto/proyecto-prog-3/pull/2) in [yagueto/proyecto-prog-3](https://github.com/yagueto/proyecto-prog-3)
   <!--END_SECTION:activity-->
   
