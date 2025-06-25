@@ -27,11 +27,11 @@
 ### My recent activity ⚡
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17980](https://github.com/immich-app/immich/issues/17980#issuecomment-2954094988) in [immich-app/immich](https://github.com/immich-app/immich)
-2. 🚀 Published release [2.0 Entrega final](https://github.com/yagueto/techdrop/releases/tag/2.0) in [yagueto/techdrop](https://github.com/yagueto/techdrop)
-3. 🎉 Merged PR [#1](https://github.com/yagueto/techdrop/pull/1) in [yagueto/techdrop](https://github.com/yagueto/techdrop)
-4. 💪 Opened PR [#1](https://github.com/yagueto/techdrop/pull/1) in [yagueto/techdrop](https://github.com/yagueto/techdrop)
-5. 🗣 Commented on [#17980](https://github.com/immich-app/immich/issues/17980#issuecomment-2889182439) in [immich-app/immich](https://github.com/immich-app/immich)
+1. 🗣 Commented on [#19506](https://github.com/immich-app/immich/pull/19506#issuecomment-3001289946) in [immich-app/immich](https://github.com/immich-app/immich)
+2. 💪 Opened PR [#19506](https://github.com/immich-app/immich/pull/19506) in [immich-app/immich](https://github.com/immich-app/immich)
+3. 🗣 Commented on [#17980](https://github.com/immich-app/immich/issues/17980#issuecomment-2954094988) in [immich-app/immich](https://github.com/immich-app/immich)
+4. 🚀 Published release [2.0 Entrega final](https://github.com/yagueto/techdrop/releases/tag/2.0) in [yagueto/techdrop](https://github.com/yagueto/techdrop)
+5. 🎉 Merged PR [#1](https://github.com/yagueto/techdrop/pull/1) in [yagueto/techdrop](https://github.com/yagueto/techdrop)
   <!--END_SECTION:activity-->
   
 
