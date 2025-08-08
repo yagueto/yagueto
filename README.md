@@ -27,7 +27,7 @@
 ### My recent activity ⚡
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19506](https://github.com/immich-app/immich/pull/19506#issuecomment-3001289946) in [immich-app/immich](https://github.com/immich-app/immich)
+1. 🗣 Commented on [#24](https://github.com/Andre0512/lidl-plus/issues/24#issuecomment-3164214158) in [Andre0512/lidl-plus](https://github.com/Andre0512/lidl-plus)
 2. 💪 Opened PR [#19506](https://github.com/immich-app/immich/pull/19506) in [immich-app/immich](https://github.com/immich-app/immich)
 3. 🗣 Commented on [#17980](https://github.com/immich-app/immich/issues/17980#issuecomment-2954094988) in [immich-app/immich](https://github.com/immich-app/immich)
 4. 🚀 Published release [2.0 Entrega final](https://github.com/yagueto/techdrop/releases/tag/2.0) in [yagueto/techdrop](https://github.com/yagueto/techdrop)
