@@ -27,8 +27,8 @@
 ### My recent activity ⚡
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/yagueto/lidl-plus/issues/1#issuecomment-3261844172) in [yagueto/lidl-plus](https://github.com/yagueto/lidl-plus)
-2. 🗣 Commented on [#24](https://github.com/Andre0512/lidl-plus/issues/24#issuecomment-3164214158) in [Andre0512/lidl-plus](https://github.com/Andre0512/lidl-plus)
+1. 🗣 Commented on [#2](https://github.com/yagueto/lidl-plus/issues/2#issuecomment-3370875152) in [yagueto/lidl-plus](https://github.com/yagueto/lidl-plus)
+2. 🗣 Commented on [#1](https://github.com/yagueto/lidl-plus/issues/1#issuecomment-3261844172) in [yagueto/lidl-plus](https://github.com/yagueto/lidl-plus)
 3. 🗣 Commented on [#17980](https://github.com/immich-app/immich/issues/17980#issuecomment-2954094988) in [immich-app/immich](https://github.com/immich-app/immich)
 4. 🚀 Published release [2.0 Entrega final](https://github.com/yagueto/techdrop/releases/tag/2.0) in [yagueto/techdrop](https://github.com/yagueto/techdrop)
 5. 🎉 Merged PR [#1](https://github.com/yagueto/techdrop/pull/1) in [yagueto/techdrop](https://github.com/yagueto/techdrop)
