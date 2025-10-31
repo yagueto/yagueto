@@ -27,11 +27,11 @@
 ### My recent activity ⚡
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#26](https://github.com/Andre0512/lidl-plus/issues/26#issuecomment-3467131566) in [Andre0512/lidl-plus](https://github.com/Andre0512/lidl-plus)
-2. 🗣 Commented on [#2](https://github.com/yagueto/lidl-plus/issues/2#issuecomment-3466975445) in [yagueto/lidl-plus](https://github.com/yagueto/lidl-plus)
-3. 🔒 Closed issue [#2](https://github.com/yagueto/lidl-plus/issues/2) in [yagueto/lidl-plus](https://github.com/yagueto/lidl-plus)
-4. 🗣 Commented on [#2](https://github.com/yagueto/lidl-plus/issues/2#issuecomment-3376970279) in [yagueto/lidl-plus](https://github.com/yagueto/lidl-plus)
-5. 🗣 Commented on [#26](https://github.com/Andre0512/lidl-plus/issues/26#issuecomment-3376959592) in [Andre0512/lidl-plus](https://github.com/Andre0512/lidl-plus)
+1. 🗣 Commented on [#26](https://github.com/Andre0512/lidl-plus/issues/26#issuecomment-3473434284) in [Andre0512/lidl-plus](https://github.com/Andre0512/lidl-plus)
+2. 🗣 Commented on [#26](https://github.com/Andre0512/lidl-plus/issues/26#issuecomment-3467131566) in [Andre0512/lidl-plus](https://github.com/Andre0512/lidl-plus)
+3. 🗣 Commented on [#2](https://github.com/yagueto/lidl-plus/issues/2#issuecomment-3466975445) in [yagueto/lidl-plus](https://github.com/yagueto/lidl-plus)
+4. 🔒 Closed issue [#2](https://github.com/yagueto/lidl-plus/issues/2) in [yagueto/lidl-plus](https://github.com/yagueto/lidl-plus)
+5. 🗣 Commented on [#2](https://github.com/yagueto/lidl-plus/issues/2#issuecomment-3376970279) in [yagueto/lidl-plus](https://github.com/yagueto/lidl-plus)
   <!--END_SECTION:activity-->
   
 
