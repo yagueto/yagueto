@@ -27,7 +27,7 @@
 ### My recent activity ⚡
 
   <!--START_SECTION:activity-->
-1.  Labeled issue [#3](https://github.com/yagueto/lidl-plus/issues/3) in [yagueto/lidl-plus](https://github.com/yagueto/lidl-plus)
+1. ℹ️ Labeled issue [#3](https://github.com/yagueto/lidl-plus/issues/3) in [yagueto/lidl-plus](https://github.com/yagueto/lidl-plus)
 2. 🗣 Commented on [#3](https://github.com/yagueto/lidl-plus/issues/3#issuecomment-3642141027) in [yagueto/lidl-plus](https://github.com/yagueto/lidl-plus)
 3. 🗣 Commented on [#11377](https://github.com/zen-browser/desktop/issues/11377#issuecomment-3566640602) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
 4. 🗣 Commented on [#26](https://github.com/Andre0512/lidl-plus/issues/26#issuecomment-3473434284) in [Andre0512/lidl-plus](https://github.com/Andre0512/lidl-plus)
