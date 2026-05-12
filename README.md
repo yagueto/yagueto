@@ -15,11 +15,7 @@
 [![@yagueto's Holopin board](https://holopin.me/yagueto)](https://holopin.io/@yagueto)
 
 ### My personal stats 📈
-[![Codewars badge](https://www.codewars.com/users/Yagueto/badges/small)
 <div align="center"> 
-  <a>
-    <img src=https://github-readme-stats.vercel.app/api?username=yagueto&count_private=true&show_icons=true width=50%></img>
-  </a>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yagueto" alt="yagueto" width=49% />
 </div>
 
