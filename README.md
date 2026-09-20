@@ -23,10 +23,10 @@
 ### My recent activity ⚡
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/yagueto/hackspain-2026/pull/3) in [yagueto/hackspain-2026](https://github.com/yagueto/hackspain-2026)
-2. 🎉 Merged PR [#1](https://github.com/yagueto/hackspain-2026/pull/1) in [yagueto/hackspain-2026](https://github.com/yagueto/hackspain-2026)
-3. 🗣 Commented on [#11377](https://github.com/zen-browser/desktop/issues/11377#issuecomment-3566640602) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
-4. 🗣 Commented on [#26](https://github.com/Andre0512/lidl-plus/issues/26#issuecomment-3473434284) in [Andre0512/lidl-plus](https://github.com/Andre0512/lidl-plus)
+1. 🎉 Merged PR [#6](https://github.com/yagueto/hackspain-2026/pull/6) in [yagueto/hackspain-2026](https://github.com/yagueto/hackspain-2026)
+2. 💪 Opened PR [#6](https://github.com/yagueto/hackspain-2026/pull/6) in [yagueto/hackspain-2026](https://github.com/yagueto/hackspain-2026)
+3. 🎉 Merged PR [#3](https://github.com/yagueto/hackspain-2026/pull/3) in [yagueto/hackspain-2026](https://github.com/yagueto/hackspain-2026)
+4. 🎉 Merged PR [#1](https://github.com/yagueto/hackspain-2026/pull/1) in [yagueto/hackspain-2026](https://github.com/yagueto/hackspain-2026)
 5. 🗣 Commented on [#26](https://github.com/Andre0512/lidl-plus/issues/26#issuecomment-3467131566) in [Andre0512/lidl-plus](https://github.com/Andre0512/lidl-plus)
   <!--END_SECTION:activity-->
   
