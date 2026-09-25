@@ -23,11 +23,11 @@
 ### My recent activity ⚡
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/yagueto/hackspain-2026/pull/6) in [yagueto/hackspain-2026](https://github.com/yagueto/hackspain-2026)
-2. 💪 Opened PR [#6](https://github.com/yagueto/hackspain-2026/pull/6) in [yagueto/hackspain-2026](https://github.com/yagueto/hackspain-2026)
-3. 🎉 Merged PR [#3](https://github.com/yagueto/hackspain-2026/pull/3) in [yagueto/hackspain-2026](https://github.com/yagueto/hackspain-2026)
-4. 🎉 Merged PR [#1](https://github.com/yagueto/hackspain-2026/pull/1) in [yagueto/hackspain-2026](https://github.com/yagueto/hackspain-2026)
-5. 🗣 Commented on [#26](https://github.com/Andre0512/lidl-plus/issues/26#issuecomment-3467131566) in [Andre0512/lidl-plus](https://github.com/Andre0512/lidl-plus)
+1. 🗣 Commented on [#3](https://github.com/yagueto/lidl-plus/issues/3#issuecomment-5829960477) in [yagueto/lidl-plus](https://github.com/yagueto/lidl-plus)
+2. 🔒 Closed issue [#3](https://github.com/yagueto/lidl-plus/issues/3) in [yagueto/lidl-plus](https://github.com/yagueto/lidl-plus)
+3. ❌ Closed PR [#5](https://github.com/yagueto/lidl-plus/pull/5) in [yagueto/lidl-plus](https://github.com/yagueto/lidl-plus)
+4. 🗣 Commented on [#5](https://github.com/yagueto/lidl-plus/pull/5#issuecomment-5829944472) in [yagueto/lidl-plus](https://github.com/yagueto/lidl-plus)
+5. 🎉 Merged PR [#6](https://github.com/yagueto/hackspain-2026/pull/6) in [yagueto/hackspain-2026](https://github.com/yagueto/hackspain-2026)
   <!--END_SECTION:activity-->
   
 
